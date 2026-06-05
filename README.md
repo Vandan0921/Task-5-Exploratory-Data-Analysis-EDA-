@@ -7,18 +7,6 @@ Extract meaningful insights from the Titanic dataset using visual and statistica
 🛠️ Tools & Libraries
 ToolPurposePython 3Core languagePandasData loading, cleaning, aggregationNumPyNumerical operations & log transformsMatplotlibBase plottingSeabornStatistical visualizations (heatmap, pairplot, boxplot)Jupyter NotebookInteractive analysis environment
 
-📁 Repository Structure
-task-5-titanic-eda/
-│
-├── Titanic_EDA.ipynb          # Main Jupyter Notebook with all code + observations
-├── Titanic_EDA_Report.pgf    # PDF-ready findings report
-│
-├── train.csv                  # Training dataset (891 rows × 12 columns)
-├── test.csv                   # Test dataset
-├── gender_submission.csv      # Sample submission file
-│
-└── README.md                  # This file
-
 📊 What Was Done
 1. Dataset Overview
 
